@@ -1,2 +1,2 @@
 # Algorithmics
-:school: University of Southampton - Algorithmics (COMP1201) - Courseworks - 2019/2020
+This repository contains both Specifications and Handins for the **COMP1201-Algorithmics** courseworks
